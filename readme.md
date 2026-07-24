@@ -4,24 +4,24 @@
 
 Este é um exemplo de como usar o Markdown para documentar um projeto. Markdown é uma linguagem de marcação simples e muito utilizada em repositórios de código e documentação de software.
 
-## Funcionalidades 
+## Funcionalidades
 
-- Criação de documentação fácil e rápida
-- Suporte para formatação de texto 
+- Criação de documentação fácol e rápida
+- Suporte para informação de texto
 - Conversão direta para HTML
 
-## Exemplos de Formatação 
+## Exemplos de Formatação
 
 Esses são alguns exemplos de formatação:
 
 1. __Negrito__ e _Itálico_:
--`Negrito:` __Texto em negrito__
--`Itálico:` _texto em itálico_
+    - `Negrito:` __Texto em negrito__
+    - `Itálico:` _Texto em itálico_
 
 2. Listas ordenadas:
-    1. Primeiro Item
-    2. Segundo Item
-    3. Terceiro Item
+    1. Primeiro item
+    2. Segundo item
+    3. Terceiro item
 
 3. Listas não ordenadas:
     - Item A
@@ -30,4 +30,4 @@ Esses são alguns exemplos de formatação:
 
 ## Inserção de Links e Imagens
 - Link para documentação oficial: [Markdown Guide](https://www.markdownguide.org/)
-- Imagem: ![Logo](https://images.pexels.com/photos/1323550/pexels-photo-1323550.jpeg?auto=compress&cs=tinysrgb&w=800)  
+- Imagem: ![Logo](https://wallpapercave.com/wp/wp9417673.jpg)
