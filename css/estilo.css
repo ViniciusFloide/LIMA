@@ -1,55 +1,53 @@
-body {
+body{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
-    background-color: #f4f4f4;
-    color: #2c3c50;
+    background-attachment: #f4f4f4;
+    color: #2c3e50;
     margin: 0;
     padding: 20px;
-    font-size: 32px;
+    font-size: 16px;
 }
 
-h1 {
+h1{
     text-align: center;
     font-size: 28px;
-    color: orange;
+    color: #2980b9;
 }
 
-p {
+p{
     line-height: 1.5;
     margin: 10px 0;
     font-size: 1rem;
 }
 
 .lorem {
-    color: orange;
+    color: rgb(12, 69, 227);
 }
 
 p.lorem {
     text-align: justify;
 }
 
-#ultimoparagrafo {
+p.lorem#ultimoparagrafo{
     text-align: right;
 }
 
-.conteudo {
-    width: 100%;
-    max-width: 800px;
-    margin: 0 auto;
+.conteudo{
+    width: 50vw;
+    height: auto;
+
 }
 
-/* Botão */
-#botao:hover {
-    color: white;
-    background-color: blue;
+#botao:hover{
+    color:rgb(95, 45, 85);
+    background-color: rgb(26, 255, 0);
 }
 
-/* Imagem */
-#imagem {
+#imagem{
+    transition: transform 0.3s ease, opacity 0.3s ease; /*Transição suave*/
     width: 600px;
-    transition: transform 0.3s ease, opacity 0.3s ease;
 }
 
-#imagem:hover {
-    transform: scale(1.1);
-    opacity: 0.8;
+#imagem:hover{
+    transform: scale(1.1); /*Aumenta a imagem em 10%"*/
+    opacity: 0.8; /*Reduz ligeiramente a opacidade*/
 }
